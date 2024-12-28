@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my projects, achievements, and 
 
 ## Tech Stack
 - **Frontend:** React.js, Tailwind CSS, TypeScript
-- **Backend:** Node.js (if applicable)
+- **Backend:** Node.js
 - **Hosting:** Netlify, GitHub Pages
 - **Others:** Git, GitHub
 

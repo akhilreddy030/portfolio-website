@@ -22,20 +22,3 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/akhilreddy030/portfolio-website.git
-
-2. Install dependencies
-Navigate to the project directory and run the following command to install the dependencies:
-
-bash
-Copy code
-npm install
-3. Run the application
-Start the development server:
-
-bash
-Copy code
-npm start
-Visit http://localhost:3000 to view the website locally.
-
-Deployment
-This project is deployed using Netlify and can be accessed at https://akhil-reddy.netlify.app.
